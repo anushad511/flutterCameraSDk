@@ -1,6 +1,6 @@
 # flutter_cam_apk
 
-A new Flutter project.
+Flutter camera selfie app.
 
 ## Getting Started
 
